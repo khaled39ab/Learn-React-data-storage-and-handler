@@ -1,1 +1,1 @@
-# Getting Started with Create React App
+# Learning react data storage and handler
