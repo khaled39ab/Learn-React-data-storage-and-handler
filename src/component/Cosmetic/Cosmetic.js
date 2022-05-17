@@ -1,11 +1,13 @@
 import React from 'react';
 
-const Cosmetic = () => {
+const Cosmetic = (props) => {
+    // const {product, price, name} = props.cosmetic;
+    console.log(props.cosmetic);
     return (
         <div>
-            <h4>Product name: </h4>
-            <h4>Buy this:</h4>
-            <h5>Only for: $</h5>
+            {/* <h4>Product name: {product}</h4>
+            <h4>Buy this: {name}</h4>
+            <h5>Only for: ${price}</h5> */}
         </div>
     );
 };

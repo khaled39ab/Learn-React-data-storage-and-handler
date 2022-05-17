@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from 'react';
 import Cosmetic from '../Cosmetic/Cosmetic';
-import Shoes from '../Shoes/Shoes';
 
 const Cosmetics = () => {
     const [cosmetics, setCosmetics] = useState([]);
@@ -13,11 +12,12 @@ const Cosmetics = () => {
         <div>
             <h2>Cosmetics store</h2>
             {
-                cosmetics.map(cosmetic=>
-                    <Cosmetic key={cosmetic.id}></Cosmetic>
-                )
+                cosmetics.map(cosmetic => <Cosmetic
+                    key={cosmetic.id} 
+                    cosmetic={cosmetic} 
+                    ></Cosmetic>)
+                // cosmetics.map(cosmetic => console.log(cosmetic))
             }
-            <Shoes></Shoes>
         </div>
     );
 };
