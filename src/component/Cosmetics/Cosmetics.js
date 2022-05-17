@@ -1,5 +1,5 @@
 import React from 'react';
-import Shoes from './Shoes/Shoes';
+import Shoes from '../Shoes/Shoes';
 
 const Cosmetics = () => {
     return (
