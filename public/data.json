@@ -1,0 +1,86 @@
+[
+    {
+      "id": "6283dfc50fa7467f9e353361",
+      "age": 32,
+      "price": 376,
+      "eyeColor": "blue",
+      "name": "Beulah Evans",
+      "gender": "female",
+      "product": "IRACK",
+      "email": "beulahevans@irack.com",
+      "phone": "+1 (854) 462-2094",
+      "address": "291 Chestnut Street, Rushford, Alabama, 480"
+    },
+    {
+      "id": "6283dfc5f521d3171a664dc1",
+      "age": 36,
+      "price": 60,
+      "eyeColor": "brown",
+      "name": "Melissa Oconnor",
+      "gender": "female",
+      "product": "GEEKOLA",
+      "email": "melissaoconnor@geekola.com",
+      "phone": "+1 (890) 587-3338",
+      "address": "749 Amersfort Place, Ada, American Samoa, 7687"
+    },
+    {
+      "id": "6283dfc5386ba67c925e731c",
+      "age": 31,
+      "price": 484,
+      "eyeColor": "blue",
+      "name": "Haley Weber",
+      "gender": "female",
+      "product": "SONGBIRD",
+      "email": "haleyweber@songbird.com",
+      "phone": "+1 (875) 460-3917",
+      "address": "237 Claver Place, Joppa, District Of Columbia, 3032"
+    },
+    {
+      "id": "6283dfc54939fd88c1b87d79",
+      "age": 29,
+      "price": 243,
+      "eyeColor": "green",
+      "name": "Marissa Fisher",
+      "gender": "female",
+      "product": "ENVIRE",
+      "email": "marissafisher@envire.com",
+      "phone": "+1 (975) 562-2853",
+      "address": "885 Balfour Place, Frank, Guam, 359"
+    },
+    {
+      "id": "6283dfc5abbfceeda7defe8a",
+      "age": 36,
+      "price": 225,
+      "eyeColor": "brown",
+      "name": "Ernestine Vinson",
+      "gender": "female",
+      "product": "GRAINSPOT",
+      "email": "ernestinevinson@grainspot.com",
+      "phone": "+1 (817) 480-3295",
+      "address": "308 Sullivan Place, Kraemer, Minnesota, 7660"
+    },
+    {
+      "id": "6283dfc5ecb3ae0a881b9c76",
+      "age": 34,
+      "price": 527,
+      "eyeColor": "brown",
+      "name": "Lolita Hines",
+      "gender": "female",
+      "product": "MOBILDATA",
+      "email": "lolitahines@mobildata.com",
+      "phone": "+1 (895) 491-3916",
+      "address": "568 Albany Avenue, Coral, Kentucky, 7626"
+    },
+    {
+      "id": "6283dfc5c99915f80906c982",
+      "age": 32,
+      "price": 419,
+      "eyeColor": "brown",
+      "name": "Randall Hatfield",
+      "gender": "male",
+      "product": "EXTRAGENE",
+      "email": "randallhatfield@extragene.com",
+      "phone": "+1 (848) 583-2758",
+      "address": "672 Turnbull Avenue, Oretta, Michigan, 8162"
+    }
+  ]

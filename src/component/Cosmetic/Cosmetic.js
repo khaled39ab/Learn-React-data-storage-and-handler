@@ -1,13 +1,11 @@
 import React from 'react';
-import { multiply } from '../utilities/calculate';
 
 const Cosmetic = () => {
-    const first = 98;
-    const second = 52;
-    const total = multiply(first, second)
     return (
         <div>
-            <h4>Cosmetic budget: {total}</h4>
+            <h4>Product name: </h4>
+            <h4>Buy this:</h4>
+            <h5>Only for: $</h5>
         </div>
     );
 };
