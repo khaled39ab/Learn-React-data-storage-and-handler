@@ -6,14 +6,7 @@ const Cosmetic = (props) => {
     const {product, price, name, id} = props.cosmetic;
 
     const addToCart = (id)=>{
-        const quantity = localStorage.getItem(id);
-        if(quantity){
-            const newQuantity = +quantity + 1;
-            localStorage.setItem(id, newQuantity)
-        }
-        else{
-            addToDb(id);
-        }
+        addToDb(id);
     }
     return (
         <div className='product'>
